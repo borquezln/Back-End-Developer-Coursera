@@ -21,8 +21,18 @@ Thanks to this course, I'm able to:\
 •	Explain the importance of testing in Python, and when to apply particular methods.\
 
 ## Version Control
-By the end of this course, I'll be able to:\
+Finished at August 06, 2022 (<a href="https://www.coursera.org/account/accomplishments/certificate/3GD49GN5AAD9">Certificate</a>)\
+Thanks to this course, I'm able to:\
 •	Implement Version Control systems.\
 •	Navigate and configure using the command line.\
 •	Manage code revisions.\
 •	Create and use a GitHub repository.\
+
+## Databases
+By the end of this course, I’ll be able to:\
+•	Demonstrate a working knowledge of the concepts and principles that underpin how databases work.\
+•	Identify and explain the different types of core technology and management systems used in databases.\
+•	Identify and interpret basic SQL statements and commands.\
+•	Manipulate records in a database with the use of SQL statements and commands.\
+•	Outline alternatives to SQL.\
+•	Plan and design a simple relational database system.\
