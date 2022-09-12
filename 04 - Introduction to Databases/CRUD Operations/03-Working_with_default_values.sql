@@ -1,5 +1,3 @@
-mysql;
-
 CREATE DATABASE cm_devices;
 USE cm_devices;
 CREATE TABLE address (id int NOT NULL,  street VARCHAR(255), postcode VARCHAR(10), town VARCHAR(30) DEFAULT "Harrow");

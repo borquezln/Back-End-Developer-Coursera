@@ -1,5 +1,3 @@
-mysql;
-
 CREATE DATABASE cm_devices;
 USE cm_devices;
 CREATE TABLE invoice (customer_name VARCHAR(50), order_date DATE, quantity INT, total DECIMAL);

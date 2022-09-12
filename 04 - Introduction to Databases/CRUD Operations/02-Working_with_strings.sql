@@ -1,5 +1,3 @@
-mysql;
-
 CREATE DATABASE cm_devices;
 USE cm_devices;
 CREATE TABLE customers (username CHAR(9), full_name VARCHAR(100), email VARCHAR(255));

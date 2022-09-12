@@ -1,5 +1,3 @@
-mysql;
-
 CREATE DATABASE bookshop;
 USE bookshop;
 CREATE TABLE customers (customer_id INT, name VARCHAR (50), address VARCHAR(100));
